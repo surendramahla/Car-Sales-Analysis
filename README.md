@@ -5,7 +5,8 @@
 This project presents an **interactive Power BI dashboard** built using automobile sales data.  
 The dashboard provides valuable insights into **sales performance, pricing trends, and customer preferences** to support data-driven decision-making.  
 
-<img width="1561" height="916" alt="image" src="YOUR_IMAGE_LINK_HERE" />
+<img width="1562" height="876" alt="image" src="https://github.com/user-attachments/assets/a7d9e7f0-a230-4102-8614-3fa8a1f51aee" />
+
 
 ---
 
